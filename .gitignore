@@ -3,6 +3,7 @@ logs
 *.log
 npm-debug.log*
 .yarn/
+pnpm-lock.yaml
 
 # Runtime data
 pids
